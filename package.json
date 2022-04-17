@@ -1,0 +1,17 @@
+{
+	"name": "tictactoe",
+	"version": "1.0.0",
+	"description": "Your tic-tac-toe should do the following things:",
+	"main": "tictactoe.js",
+	"scripts": {
+		"test": "jest"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"@learnly/simple-reader": "^1.0.3"
+	},
+	"devDependencies": {
+		"jest": "^27.5.1"
+	}
+}
